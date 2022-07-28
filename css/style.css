@@ -1,0 +1,5 @@
+@import "greeting.css";
+
+.hidden {
+    display: none;
+}
